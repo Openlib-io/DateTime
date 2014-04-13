@@ -1,37 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<interface lib="datetime" homepage="https://github.com/Openlib-ir/DateTime">
-  <public>
-    <constructor name="" description="">
-      <arguments description="">
-        <argument type="" name="" description="" optional="" default-value="" reference="is it pointer?">
-      </arguments>
-      
-      <return-types description="Some languages have only one return type">
-        <return-type type="" description="">
-      </return-types>
-      <exceptions/>
-      <doc>phpdoc, javadoc, etc if exists</doc>
-    </constructor>
-    
-    <method name="" description="" static="is it static?">
-      <arguments description="">
-        <argument type="" name="" description="" optional="" default-value="" reference="is it pointer?">
-      </arguments>
-      
-      <return-types description="Some languages have only one return type">
-        <return-type type="" description="">
-      </return-types>
-      <exceptions/>
-      <doc>phpdoc, javadoc, etc if exists</doc>
-    </method>
-  
-  </public>
-  
-  <protected>
-  
-  </protected>
-  
-  <private>
-    <property type="" name="" description="" default-value="" static="is it static?">
-  </private>
-</interface>
+<openlib:interface lib="DateTime"  version="1.0.0" date="2014-04-13 14:56:00" lib-id="12345 (openlib.ir unique id)"
+                   homepage="https://github.com/Openlib-ir/DateTime"
+                   xmlns:openlib="http://openlib.ir/interfaces/">
+    <openlib:public>
+        <openlib:constructor name="" description="">
+            <openlib:arguments description="">
+                <openlib:argument type="" name="" description="" optional="" default-value=""
+                                  reference="is it pointer?"/>
+            </openlib:arguments>
+
+            <openlib:return-types description="Some languages have only one return type">
+                <openlib:return-type type="" description=""/>
+            </openlib:return-types>
+            <openlib:exceptions/>
+            <openlib:doc>phpdoc, javadoc, etc if exists</openlib:doc>
+        </openlib:constructor>
+
+        <openlib:method name="" description="" static="is it static?">
+            <openlib:arguments description="">
+                <openlib:argument type="" name="" description="" optional="" default-value=""
+                                  reference="is it pointer?"/>
+            </openlib:arguments>
+
+            <openlib:return-types description="Some languages have only one return type">
+                <openlib:return-type type="" description=""/>
+            </openlib:return-types>
+            <openlib:exceptions/>
+            <openlib:doc>phpdoc, javadoc, etc if exists</openlib:doc>
+        </openlib:method>
+
+    </openlib:public>
+
+    <openlib:protected/>
+
+    <openlib:private>
+        <openlib:property type="" name="" description="" default-value="" static="is it static?"/>
+    </openlib:private>
+
+</openlib:interface>
