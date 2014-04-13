@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<openlib:interface lib="DateTime"  version="1.0.0" date="2014-04-13 14:56:00" lib-id="12345 (openlib.ir unique id)"
-                   homepage="https://github.com/Openlib-ir/DateTime"
-                   xmlns:openlib="http://openlib.ir/interfaces/">
+<openlib:interface lib="DateTime"  version="1.0.0" date="2014-04-13 14:56:00" lib-id="12345 (openlib.io unique id)"
+                   homepage="https://github.com/Openlib-io/DateTime"
+                   xmlns:openlib="http://openlib.io/interfaces/">
     <openlib:public>
         <openlib:constructor name="" description="">
             <openlib:arguments description="">
