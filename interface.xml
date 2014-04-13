@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<interface lib="datetime" homepage="https://github.com/Openlib-ir/DateTime">
+  <public>
+    <constructor name="" description="">
+      <arguments description="">
+        <argument type="" name="" description="" optional="" default-value="" reference="is it pointer?">
+      </arguments>
+      
+      <return-types description="Some languages have only one return type">
+        <return-type type="" description="">
+      </return-types>
+      <exceptions/>
+      <doc>phpdoc, javadoc, etc if exists</doc>
+    </constructor>
+    
+    <method name="" description="" static="is it static?">
+      <arguments description="">
+        <argument type="" name="" description="" optional="" default-value="" reference="is it pointer?">
+      </arguments>
+      
+      <return-types description="Some languages have only one return type">
+        <return-type type="" description="">
+      </return-types>
+      <exceptions/>
+      <doc>phpdoc, javadoc, etc if exists</doc>
+    </method>
+  
+  </public>
+  
+  <protected>
+  
+  </protected>
+  
+  <private>
+    <property type="" name="" description="" default-value="" static="is it static?">
+  </private>
+</interface>
